@@ -2,7 +2,7 @@
 
 A fun and interactive JavaScript-based browser game where you shoot ducks, score points, and advance through increasing levels of difficulty.
 
-![Gameplay Screenshot](imgs/background.png)
+![Gameplay Screenshot](https://github.com/StevenTharwat/JS-Duck-Game/blob/main/ScreenShots/1.png)
 
 ## 🎮 Gameplay
 
