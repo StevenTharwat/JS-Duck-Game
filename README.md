@@ -1,2 +1,28 @@
-# JS-Duck-Game
-Duck Game is a browser-based shooting game built using pure JavaScript, HTML, and CSS. In this game, you aim and shoot flying ducks using a rotating gun, track your score, reload when you're out of bullets, and challenge your reflexes as the difficulty increases with each level.
+# 🦆 Duck Game
+
+A fun and interactive JavaScript-based browser game where you shoot ducks, score points, and advance through increasing levels of difficulty.
+
+![Gameplay Screenshot](imgs/background.png)
+
+## 🎮 Gameplay
+
+- Use your mouse to aim the gun and shoot moving ducks.
+- You start with 5 bullets. Click the reload icon to refill your ammo.
+- Each hit increases your score.
+- Every 10 points, you level up and the ducks move faster.
+- Your highest score is saved in the browser's local storage.
+
+## 🚀 Features
+
+- ✅ Smooth aiming and shooting mechanics
+- 🔁 Dynamic difficulty that increases with score
+- 💾 Highest score tracking using local storage
+- 🔊 Background music and sound effects
+- 🎯 Crosshair for better targeting
+- 🎨 Simple and colorful retro-style visuals
+
+## 🛠️ Built With
+
+- **HTML5** – Markup for the structure
+- **CSS3** – Styling and layout
+- **Vanilla JavaScript** – Game logic and interactivity
