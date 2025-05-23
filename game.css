@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(imgs/background.png);
+    overflow: hidden;
+}
+h2{
+    margin: 10px 10px;
+    display: block;
+}
+span{
+    font-weight: 900;
+    color: purple;
+}
+.gun{
+    height: 250px;
+    position: absolute;
+    bottom: -70px;
+}
+.load{
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    width: 125px;
+
+}
+.target{
+    position: absolute;
+    top:50%;
+    left:50%;
+    width: 80px;
+    height: 80px;
+    pointer-events: none;
+}
+
+.duck{
+    position: absolute;
+    width: 200px;
+    /* transition: all 1s; */
+}
